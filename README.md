@@ -12,7 +12,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [FAQ accordion card](https://0rder-summary-card.netlify.app/)
+- Live Site URL: [FAQ accordion card](https://faq-acc0rdion.netlify.app/)
 
 ## Built with
 
